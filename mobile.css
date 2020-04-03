@@ -1,0 +1,35 @@
+.planet-container {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  background-color: slategray;
+}
+
+.planet {
+  height: 75px;
+  width: 75px;
+  margin-top: 50px;
+  border: none;
+  border-radius: 50%;
+}
+
+.planet:hover {
+  border: 2px solid red;
+}
+
+#planet1 {
+  margin-left: 35px;
+}
+
+#planet2 {
+  margin-right: 40px;
+}
+
+#planet3 {
+  margin-left: 50px;
+}
+
+#planet4 {
+  margin-right: 44px;
+}
