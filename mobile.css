@@ -1,3 +1,7 @@
+.navbar {
+background-color: lime !important;
+}
+
 .planets {
     background-color: slategray;
 }
